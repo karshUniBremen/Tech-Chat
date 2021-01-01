@@ -3,6 +3,7 @@ layout: post
 title: Docker Containers & Network
 ---
 
+
 ## Image Vs Container
 
 - An **Image** is the ***application*** we want to run
