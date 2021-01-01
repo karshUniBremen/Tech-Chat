@@ -3,8 +3,6 @@ layout: post
 title: Docker installation for Linux
 ---
 
-## Docker installation for Linux
-
 Docker can be installed in three ways
 
 - Script: https://get.docker.com  (recommended way)
